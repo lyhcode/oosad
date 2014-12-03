@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [staruml](staruml.md)
-* BlueJ
+* [BlueJ](bluej.md)
 
