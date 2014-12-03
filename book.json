@@ -2,8 +2,8 @@
     "plugins": ["exercises", "autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": "系統分析與設計",
-            "author": "講義",
+            "title": "System Analysis and Design",
+            "author": "Course",
             "font": {
                 "size": null,
                 "family": "Impact",
