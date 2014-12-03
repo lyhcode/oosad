@@ -2,19 +2,19 @@
     "plugins": ["exercises", "autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": "My Book",
-            "author": "Author",
+            "title": "系統分析與設計",
+            "author": "講義",
             "font": {
                 "size": null,
                 "family": "Impact",
-                "color": "#FFF"
+                "color": "#333"
             },
             "size": {
                 "w": 1800,
                 "h": 2360
             },
             "background": {
-                "color": "#09F"
+                "color": "#000"
             }
         }
     }
