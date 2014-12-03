@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* staruml
+* [staruml](staruml.md)
 
