@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [staruml](staruml.md)
+* [StarUML](staruml.md)
 * [BlueJ](bluej.md)
 
