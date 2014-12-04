@@ -1,0 +1,14 @@
+```uml
+@startuml
+Class Person {
+    String name
+    int birthYear
+
+    public void eat()
+    public void sleep()
+}
+
+Person <|-- Teacher
+Person <|-- Student
+@enduml
+```
