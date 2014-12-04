@@ -1,3 +1,4 @@
 # 實作：自動提款機
 
-![ATM]()
+![ATM](atm-lego.png)
+
