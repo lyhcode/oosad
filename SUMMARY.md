@@ -9,6 +9,7 @@
 * [Object-oriented programming](oop/README.md)
    * [類別](oop/class.md)
    * [物件](oop/object.md)
+   * [繼承](oop/inherit.md)
 * [實作：自動提款機](ex-atm/ex-atm.md)
    * [Requirements](ex-atm/requirements.md)
    * [Use Case Diagrams](ex-atm/use_case.md)
