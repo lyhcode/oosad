@@ -12,6 +12,7 @@ Class 人類 {
 @enduml
 ```
 
+
 貓
  
 ```uml
