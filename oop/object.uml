@@ -1,0 +1,22 @@
+```uml
+@startuml
+Class Person {
+    String name
+    int birthYear
+
+    public void eat()
+    public void sleep()
+}
+@enduml
+```,```uml
+@startuml
+object john {
+    name = 'John'
+    birthYear = 1984
+}
+object mary {
+    name = 'Mary'
+    birthYear = 1992
+}
+@enduml
+```

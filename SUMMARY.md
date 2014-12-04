@@ -7,9 +7,10 @@
    * 4+1觀點
    * 塑模（Modeling）
 * [Object-oriented programming](oop/README.md)
-   * [Class](oop/class.md)
+   * [類別](oop/class.md)
+   * [物件](oop/object.md)
 * [實作：自動提款機](ex-atm/ex-atm.md)
    * [Requirements](ex-atm/requirements.md)
    * [Use Case Diagrams](ex-atm/use_case.md)
-   * [References](ex-atm/references.md)
+* [參考資料](reference/README.md)
 
