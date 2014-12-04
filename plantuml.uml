@@ -1,0 +1,13 @@
+```uml
+@startuml
+Class 人類 {
+    String 出生年月日
+}
+@enduml
+```,```uml
+@startuml
+Class 動物 {
+    String 血型
+}
+@enduml
+```

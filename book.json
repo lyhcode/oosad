@@ -1,21 +1,5 @@
 {
-    "plugins": ["exercises", "autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            "title": "System Analysis and Design",
-            "author": "Course",
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#333"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#000"
-            }
-        }
-    }
+    "plugins": [
+        "plantuml"
+    ]
 }
