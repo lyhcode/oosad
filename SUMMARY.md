@@ -8,6 +8,7 @@
 * [Plant UML](plantuml/README.md)
 * [BlueJ](bluej/README.md)
    * [操作說明](bluej/usage.md)
+   * [互動式編程](bluej/interactive.md)
    * [練習作業](bluej/exercise.md)
 * [UML 基礎](basic/README.md)
    * [OMG](basic/omg.md) 
