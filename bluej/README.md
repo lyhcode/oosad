@@ -20,3 +20,10 @@ Windows 版本
 BlueJ Installer - [bluej-314.jar](http://www.bluej.org/download/files/bluej-314.jar)
 
 點擊 .jar 檔案執行，安裝過程必須選擇正確的 jdk 安裝路徑。
+
+設定提示：
+
+* Directory to install to: `C:\bluej`
+* Java (JDK) directory: `C:\Program Files\Java\jdk1.7.0_05`
+
+安裝完成後，執行 bluej 資料夾下的 `bluej.bat`（MS-DOS 批次檔案）。
