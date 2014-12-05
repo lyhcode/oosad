@@ -9,3 +9,5 @@
 > UML並不是一個工業標準，但在Object Management Group的主持和資助下，UML正在逐漸成為工業標準。OMG之前曾經呼籲業界向其提供有關物件導向的理論及實現的方法，以便製作一個嚴謹的軟體塑模語言（Software Modeling Language）。有很多業界的領袖亦真誠地回應OMG，幫助她建立一個業界標準。
 > 
 > (Wikipedia)
+
+Grady Booch、James Rumbaugh 和 Ivar Jacobson 是UML的創始人！
