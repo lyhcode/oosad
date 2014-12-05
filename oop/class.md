@@ -10,7 +10,7 @@
 @startuml
 Class Person {
     String name
-    Date birthDay
+    int birthYear
 }
 @enduml
 ```

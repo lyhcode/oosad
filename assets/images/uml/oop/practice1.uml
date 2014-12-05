@@ -9,4 +9,12 @@
 :student: -right-> (考試)
 :student: -right-> (學習)
 @enduml
+```,```uml
+@startuml
+Class Person {
+    String name
+    int birthYear
+    void sayHello()
+}
+@enduml
 ```

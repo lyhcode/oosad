@@ -19,7 +19,28 @@
 @enduml
 ```
 
+```uml
+@startuml
+Class Person {
+    String name
+    int birthYear
+    void sayHello()
+}
+@enduml
+```
+
 ## 使用 BlueJ 實作
 
+程式碼範例。
 
+```java
+class Person {
+    String name;
+    int birthYear;
+    
+    void sayHello() {
+        System.out.println("Hi, My name is " + name + ".");
+    }
+}
+```
 
