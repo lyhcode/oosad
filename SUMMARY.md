@@ -19,6 +19,7 @@
    * [類別](oop/class.md)
    * [物件](oop/object.md)
    * [繼承](oop/inherit.md)
+   * [練習作業一](oop/practice1.md)
 * [實作：自動提款機](ex-atm/ex-atm.md)
    * [Requirements](ex-atm/requirements.md)
    * [Use Case Diagrams](ex-atm/use_case.md)

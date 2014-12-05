@@ -1,0 +1,12 @@
+```uml
+@startuml
+:person: -right-> (打招呼)
+:person: -right-> (吃東西)
+:person: -right-> (睡覺)
+@enduml
+```,```uml
+@startuml
+:student: -right-> (考試)
+:student: -right-> (學習)
+@enduml
+```
