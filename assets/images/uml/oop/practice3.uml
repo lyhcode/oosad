@@ -1,9 +1,5 @@
 ```uml
 @startuml
-:person: -right-> (打招呼)
-@enduml
-```,```uml
-@startuml
 :student: -right-> (學習)
 @enduml
 ```,```uml
@@ -19,6 +15,11 @@ Class Student {
     void study()
 }
 
+Class Subject {
+    String name
+}
+
 Person <|-- Student
+Student "0..*" -- "0..1" Subject
 @enduml
 ```

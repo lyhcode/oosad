@@ -1,20 +1,12 @@
-# 作業練習（二）
+# 作業練習（三）
 
-在「作業（一）」已設計一個「人」（Person）的類別程式。我們再定義一個「學生」（Student）的類別，利用物件導向的繼承特性，讓「人」的屬性及方法，能夠被學生類別繼承。
+新增一個「科目」（Subject）的類別，提供學生作為學習的目標物。
 
 ## 需求描述
 
 學生除了擁有一般人的屬性與行為外，還可以學習指定的科目。
 
 ## 使用 UML 設計
-
-使用案例圖：人。
-
-```uml
-@startuml
-:person: -right-> (打招呼)
-@enduml
-```
 
 使用案例圖：學生。
 
@@ -39,7 +31,12 @@ Class Student {
     void study()
 }
 
+Class Subject {
+    String name
+}
+
 Person <|-- Student
+Student "0..*" -- "0..1" Subject
 @enduml
 ```
 
@@ -56,11 +53,10 @@ class Person {
         System.out.println("Hi, My name is " + name + ".");
     }
     
-    void study() {
+    void study(Subject subject) {
         //...
     }
 }
 ```
 
 請完成其他功能實作。
-

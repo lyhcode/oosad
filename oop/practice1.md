@@ -24,7 +24,7 @@
 Class Person {
     String name
     int birthYear
-    void sayHello()
+    void hello()
 }
 @enduml
 ```
@@ -38,7 +38,7 @@ class Person {
     String name;
     int birthYear;
     
-    void sayHello() {
+    void hello() {
         System.out.println("Hi, My name is " + name + ".");
     }
 }

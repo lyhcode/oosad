@@ -23,8 +23,8 @@ Class Person {
     String name
     Date birthDay
 
-    public void eat()
-    public void sleep()
+    void eat()
+    void sleep()
 }
 @enduml
 ```

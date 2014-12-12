@@ -1,13 +1,6 @@
 ```uml
 @startuml
-Class Person {
-    String name
-    int birthYear
-
-    public void sayHello()
-}
-
-Person <|-- Teacher
-Person <|-- Student
+Animal <|-- Dog
+Animal <|-- Cat
 @enduml
 ```
