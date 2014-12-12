@@ -52,6 +52,14 @@ class Person {
     void hello() {
         System.out.println("Hi, My name is " + name + ".");
     }
+}
+```
+
+Student。
+
+```java
+class Student {
+    String school;
     
     void study(Subject subject) {
         //...
