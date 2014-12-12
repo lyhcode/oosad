@@ -8,8 +8,7 @@ Class Person {
     String name
     int birthYear
 
-    public void eat()
-    public void sleep()
+    public void sayHello()
 }
 
 Person <|-- Teacher

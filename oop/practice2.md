@@ -1,23 +1,23 @@
-# 作業練習（一）
+# 作業練習（二）
 
-使用物件導向設計出一個「人」（Person）的系統。
+設計一個「人（Person）」的程式，必須擁有以下功能。
 
 ## 需求描述
-
-* 每個人都擁有自己的名字與出生年份。
-* 在打招呼時自我介紹，說出自己的名字以及年齡。
-
-## 使用 UML 設計
-
-使用案例圖。
 
 ```uml
 @startuml
 :person: -right-> (打招呼)
+:person: -right-> (吃東西)
+:person: -right-> (睡覺)
 @enduml
 ```
 
-類別圖。
+```uml
+@startuml
+:student: -right-> (考試)
+:student: -right-> (學習)
+@enduml
+```
 
 ```uml
 @startuml
@@ -44,5 +44,5 @@ class Person {
 }
 ```
 
-請參考需求描述與 UML 設計將程式功能完成。
+請完成其他功能實作。
 
