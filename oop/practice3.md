@@ -28,7 +28,7 @@ Class Person {
 
 Class Student {
     String school
-    void study()
+    void study(Subject subject)
 }
 
 Class Subject {
