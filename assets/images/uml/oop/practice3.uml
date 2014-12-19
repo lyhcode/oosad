@@ -7,12 +7,12 @@
 Class Person {
     String name
     int birthYear
-    void hello()
+    + void hello()
 }
 
 Class Student {
     String school
-    void study(Subject subject)
+    + void study(Subject subject)
 }
 
 Class Subject {

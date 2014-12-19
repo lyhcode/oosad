@@ -23,12 +23,12 @@
 Class Person {
     String name
     int birthYear
-    void hello()
+    + void hello()
 }
 
 Class Student {
     String school
-    void study(Subject subject)
+    + void study(Subject subject)
 }
 
 Class Subject {
@@ -67,4 +67,16 @@ class Student {
 }
 ```
 
-請完成其他功能實作。
+Subject。
+
+```java
+class Subject {
+    String name;
+}
+```
+
+請將參考 UML 設計完成以上的程式碼練習，程式執行結果須符合以下的要求。
+
+1. 建立一位或多位學生的物件。
+2. 建立兩筆以上的科目物件，例如數學與國文。
+3. 讓學生進行學習（study）每個科目。

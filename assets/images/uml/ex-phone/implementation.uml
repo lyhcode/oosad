@@ -1,0 +1,9 @@
+```uml
+@startuml
+Phone "1" o-- "1" Screen
+Phone "1" o-- "1" Processor
+Phone "1" o-- "1" Memory
+Phone "1" o-- "0..1" Camera
+Camera "1" o-- "1" Len
+@enduml
+```

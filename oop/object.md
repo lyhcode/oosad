@@ -10,8 +10,8 @@ Class Person {
     String name
     int birthYear
 
-    void eat()
-    void sleep()
+    + void eat()
+    + void sleep()
 }
 @enduml
 ```

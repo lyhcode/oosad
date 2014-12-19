@@ -31,12 +31,12 @@
 Class Person {
     String name
     int birthYear
-    void hello()
+    + void hello()
 }
 
 Class Student {
     String school
-    void study()
+    +void study()
 }
 
 Person <|-- Student

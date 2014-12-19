@@ -1,0 +1,7 @@
+```uml
+@startuml
+class Factory {
+    +{static} make(name: String) : Phone
+}
+@enduml
+```

@@ -1,0 +1,15 @@
+```uml
+@startuml
+:user: -right-> (打電話)
+:user: -right-> (照相)
+:user: -right-> (玩Game)
+@enduml
+```,```uml
+@startuml
+:factory: -right-> (製造手機)
+@enduml
+```,```uml
+@startuml
+:reseller: -right-> (賣手機)
+@enduml
+```

@@ -1,0 +1,15 @@
+```uml
+@startuml
+class Phone {
+    camera : Camera
+}
+class Camera {
+    len : Len
+}
+class Len {
+    pixel : int
+}
+Phone "1" o-- "0..1" Camera
+Camera "1" o-right- "1" Len
+@enduml
+```

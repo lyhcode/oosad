@@ -7,7 +7,7 @@
 Class Person {
     String name
     int birthYear
-    void hello()
+    + void hello()
 }
 @enduml
 ```

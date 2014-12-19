@@ -1,0 +1,28 @@
+```uml
+@startuml
+class Phone {
+    name : String
+    price : int
+    
+    screen : Screen
+    processor : Processor
+    memory : Memory
+}
+class Screen {
+    inch : double
+    width : int
+    height : int
+}
+class Processor {
+    core : int
+    speed : double
+}
+class Memory {
+    size : int
+}
+
+Phone "1" o-right- "1" Screen
+Phone "1" o-- "1" Processor
+Phone "1" o-- "1" Memory
+@enduml
+```

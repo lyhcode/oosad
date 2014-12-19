@@ -17,14 +17,14 @@
 @enduml
 ```
 
-類別圖。
+類別圖。 sadad
 
 ```uml
 @startuml
 Class Person {
     String name
     int birthYear
-    void hello()
+    + void hello()
 }
 @enduml
 ```

@@ -1,0 +1,12 @@
+```uml
+@startuml
+class Screen {
+    inch : double
+    width : int
+    height : int
+    
+    +dpi() : double
+    +isRetina() : boolean
+}
+@enduml
+```
