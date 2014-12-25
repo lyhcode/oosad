@@ -1,0 +1,12 @@
+```uml
+@startuml
+class Person <<entity>>
+class Owner <<entity>> {
+    address: String
+    city: String
+    telephone: String
+    pets: Set<Pet>
+}
+Person <|-- Owner
+@enduml
+```

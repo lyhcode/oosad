@@ -1,0 +1,3 @@
+class PetType {
+    String name;
+}

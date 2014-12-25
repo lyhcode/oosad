@@ -1,0 +1,15 @@
+```uml
+@startuml
+class Owner
+class Person
+class Pet
+class PetType
+class Specialty
+class Vet
+class Visit
+@enduml
+```,```uml
+@startuml
+Owner "1" -- "0..*" Pet
+@enduml
+```

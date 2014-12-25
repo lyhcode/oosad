@@ -1,0 +1,3 @@
+class Specialty {
+    String name;
+}
