@@ -34,3 +34,15 @@ Math.sqrt(width*width+height*height)/inch;
 
 二、修改 BlueJ 程式，實作 `dpi()` 與 `isRetina()` 兩個方法。
 
+參考程式碼：
+
+```java
+double dpi() {
+    return Math.sqrt(width*width+height*height)/inch;
+}
+
+boolean isRetina() {
+    return dpi() >= 300;
+}
+```
+

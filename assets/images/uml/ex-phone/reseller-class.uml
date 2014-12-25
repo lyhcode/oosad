@@ -4,5 +4,6 @@ class Reseller {
     stock : List<Phone>
     + purchase(name: String)
 }
+Reseller "0..1" -- "0..*" Phone
 @enduml
 ```

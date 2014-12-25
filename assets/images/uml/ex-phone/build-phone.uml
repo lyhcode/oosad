@@ -1,0 +1,15 @@
+```uml
+@startuml
+class Phone {
+    name : String
+    price : int
+    
+    screen : Screen
+    processor : Processor
+    memory : Memory
+    camera : Camera
+
+    + show() : void
+}
+@enduml
+```

@@ -1,0 +1,7 @@
+```uml
+@startuml
+Phone <|-- iPhone6
+Phone <|-- iPhone6Plus
+Phone <|-- Nexus6
+@enduml
+```
