@@ -1,0 +1,11 @@
+```uml
+@startuml
+class Customer {
+    pets : List<Pet>
+    
+    + play() : void
+}
+Person <|-- Customer
+Person <|-- Shopkeeper
+@enduml
+```

@@ -1,0 +1,9 @@
+```uml
+@startuml
+class Animal {
+    age : int
+    weight : double
+    + eat() : void
+}
+@enduml
+```

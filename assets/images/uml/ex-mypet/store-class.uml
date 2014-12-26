@@ -1,0 +1,12 @@
+```uml
+@startuml
+class Store {
+    name : String
+    shopkeeper : Shopkeeper
+    pets : List<Pet>
+    
+    + show(customer : Customer) : void
+    + sell(customer : Customer) : void
+}
+@enduml
+```

@@ -1,0 +1,6 @@
+```uml
+@startuml
+Animal <|-- Dog
+Animal <|-- Cat
+@enduml
+```

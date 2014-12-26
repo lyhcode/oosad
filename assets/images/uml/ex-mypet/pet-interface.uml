@@ -1,0 +1,9 @@
+```uml
+@startuml
+interface Pet <<interface>> {
+    + play() : void
+}
+Pet <|.. Dog
+Pet <|.. Cat
+@enduml
+```
