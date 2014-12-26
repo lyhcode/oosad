@@ -1,3 +1,3 @@
-class iPhone6 extends Phone {
+class IPhone6 extends Phone {
     
 }

@@ -1,8 +1,8 @@
 ```uml
 @startuml
 class Reseller {
-    stock : List<Phone>
-    + purchase(name: String)
+    phones : List<Phone>
+    + stock(name : String)
 }
 Reseller "0..1" -- "0..*" Phone
 @enduml

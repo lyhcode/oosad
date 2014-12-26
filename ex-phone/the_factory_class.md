@@ -5,7 +5,7 @@
 ```uml
 @startuml
 class Factory {
-    +{static} make(name: String) : Phone
+    +{static} make(name : String) : Phone
 }
 @enduml
 ```
