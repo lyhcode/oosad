@@ -40,6 +40,7 @@ Phone "1" o-- "1" Memory
 手機規格範例：
 
 1. [Google Nexus 6](http://www.google.com/nexus/6/)
-2. [小米手機3](http://www.mi.com/tw/mi3/#param)
-3. [ASUS ZenPhone 6](http://www.asus.com/tw/Phones/ZenFone_6_A600CG/specifications/)
-4. [HTC One Max](http://www.htc.com/tw/smartphones/htc-one-max/)
+2. [iPhone](https://www.apple.com/iphone/compare/)
+3. [小米手機3](http://www.mi.com/tw/mi3/#param)
+4. [ASUS ZenPhone 6](http://www.asus.com/tw/Phones/ZenFone_6_A600CG/specifications/)
+5. [HTC One Max](http://www.htc.com/tw/smartphones/htc-one-max/)

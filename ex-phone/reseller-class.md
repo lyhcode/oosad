@@ -12,6 +12,8 @@ Reseller "0..1" -- "0..*" Phone
 @enduml
 ```
 
+![bluej](bluej-reseller.png)
+
 ## 作業練習
 
 一、設計經銷商的 UML 類別圖。
