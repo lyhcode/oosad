@@ -46,3 +46,8 @@ boolean isRetina() {
 }
 ```
 
+三、修改 Phone 類別的 show() 方法，使用 isRetina() 判斷螢幕是否為 Retina Display，並顯示訊息。
+
+```
+**** Retina Display ****
+```
