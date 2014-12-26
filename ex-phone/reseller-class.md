@@ -1,6 +1,6 @@
 # 經銷商（Reseller）
 
-經銷商可以從工廠訂製手機，請實作進貨（stock）的方法，將手機放到倉庫存放。。
+經銷商可以從工廠訂製手機，請實作進貨（stock）的方法，將手機放到倉庫（`phones : List<Phone>`）存放。
 
 ```uml
 @startuml
