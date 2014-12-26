@@ -3,7 +3,7 @@
 ![bluej](bluej-1.png)
 
 
-## Phone
+Phone
 
 ```java
 class Phone {
@@ -17,7 +17,7 @@ class Phone {
 }
 ```
 
-## Screen
+Screen
 
 ```java
 class Screen {
@@ -27,7 +27,7 @@ class Screen {
 }
 ```
 
-## Memory
+Memory
 
 ```java
 class Memory {
@@ -35,7 +35,7 @@ class Memory {
 }
 ```
 
-## Processor
+Processor
 
 ```java
 class Processor {
@@ -44,7 +44,7 @@ class Processor {
 }
 ```
 
-## Camera
+Camera
 
 ```java
 class Camera {
@@ -52,7 +52,7 @@ class Camera {
 }
 ```
 
-## Len
+Len
 
 ```java
 class Len {

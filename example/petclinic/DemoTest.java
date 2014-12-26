@@ -39,4 +39,14 @@ public class DemoTest
     public void tearDown()
     {
     }
+
+    @Test
+    public void createNewOwner()
+    {
+        Owner owner1 = new Owner();
+        owner1.firstName = "John";
+        owner1.lastName = "Smith";
+    }
 }
+
+
