@@ -5,6 +5,7 @@
 ```uml
 @startuml
 class Animal {
+    name : String
     age : int
     weight : double
     + eat() : void

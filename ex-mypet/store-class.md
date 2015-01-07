@@ -10,7 +10,7 @@ class Store {
     pets : List<Pet>
     
     + show(customer : Customer) : void
-    + sell(customer : Customer) : void
+    + sell(customer : Customer, pet : Pet) : void
 }
 @enduml
 ```

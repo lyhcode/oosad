@@ -3,7 +3,9 @@
 ```uml
 @startuml
 interface Pet <<interface>> {
+    + eat() : void
     + play() : void
+    + show() : void
 }
 Pet <|.. Dog
 Pet <|.. Cat
