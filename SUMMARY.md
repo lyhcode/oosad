@@ -1,5 +1,9 @@
 # Summary
 
+* [認識敏捷軟體開發](agile/README.md)
+* [認識版本控制系統](vcs/README.md)
+* [認識自動化測試](tdd/README.md)
+* [認識持續整合](devops/README.md)
 * 工具軟體介紹
   * [StarUML](staruml/README.md)
   * [AstahUML](astah/README.md)
@@ -24,10 +28,6 @@
    * [關係](oop/relationship.md)
    * [建構子](oop/constructor.md)
    * [作業（三）](oop/practice3.md)
-* [認識敏捷軟體開發](agile/README.md)
-* [認識版本控制系統](vcs/README.md)
-* [認識自動化測試](tdd/README.md)
-* [認識持續整合](devops/README.md)
 * [實作：手機](ex-phone/README.md)
    * [Requirements](ex-phone/requirements.md)
    * [The Phone Class](ex-phone/phone-class.md)
